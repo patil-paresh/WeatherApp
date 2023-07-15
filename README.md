@@ -16,3 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ![weatherapp1](https://github.com/patil-paresh/WeatherApp/assets/130557013/cd0666bb-a492-4ac2-bb10-65aea1224bc1)
+![weatherapp2](https://github.com/patil-paresh/WeatherApp/assets/130557013/125c1029-93eb-449c-909c-badef411d0e3)
